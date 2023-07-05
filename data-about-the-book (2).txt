@@ -1,0 +1,16 @@
+{
+  "bookname": "Pirâmide da sabedoria",
+  "publicado": "2020",
+  "avaliação": "4.5",
+  "escritor": "Brett McCrakenn",
+  "descrição": "Este é um belo livro!!!",
+  "image": "https://i.ibb.co/yyJ3tKs/Bookload.png"
+}§
+{
+  "bookname": "Jesse Lyma Hulrbut",
+  "publicado": "2018",
+  "avaliação": "4.0",
+  "escritor": "Jesse",
+  "descrição": "Este é um belo livro!!!",
+  "image": "https://i.ibb.co/pr4QM3s/Bookload-1.png"
+}§
